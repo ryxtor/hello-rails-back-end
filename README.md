@@ -32,6 +32,10 @@
 - Run the code:
   
   $ `rails s`
+
+- Front-end
+
+  To use this project you also need the Front-end. You can find it [here](https://github.com/ryxtor/hello-react-front-end). 
   
 ## Author
 
